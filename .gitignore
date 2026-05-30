@@ -31,3 +31,15 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Environment & Properties ###
+application.properties
+application-*.properties
+application.yml
+application-*.yml
+.env
+.env.*
+
+### Editor Lock Files ###
+*.LCK*
+*~
